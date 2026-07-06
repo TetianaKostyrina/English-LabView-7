@@ -656,3 +656,4 @@ function renderAll() {
 applyBackground(currentTab);
 resetAll();
 renderAll();
+    
